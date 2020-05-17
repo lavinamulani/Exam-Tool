@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+    <head>
+        <style type="text/css">
+            .table-style{
+                width: auto;
+                height: 100%;
+                border: 1px solid blue;
+                
+                
+            }
+            .candidate{
+                text-indent: 30%;
+                font: "Lucida Calligraphy;Courier New";
+                font-size: 16.5pt;
+                font-weight: bold;
+                padding-top:20px;
+				text-decoration: underline;
+            }
+         </style>
+    </head>
+    <body>
+        <table border="0" class="table-style">
+            <tr>
+                <td><img src="tecdev.png" /></td>
+            </tr>
+            <tr>
+                <td><img src="certificate.png" /></td>
+            </tr>
+            
+                
+           

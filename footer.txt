@@ -1,0 +1,6 @@
+ <tr>
+                <td style="text-indent: 15%; padding-top: 100px;">This is Computerized Generated Certificate. Not Legal till have authorization Seal/Watermark and Signature</td>
+            </tr>
+        </table>
+    </body>  
+</html>
